@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+	font-family: sans-serif;
+}
+
+todo-wrapper { 
+	margin: 20px auto 20px auto;
+	width: 500px;
+	min-height: 600px;
+	border: 5px solid rgba(73, 204, 249, 1.0);
+	padding: 20px;
+ }
